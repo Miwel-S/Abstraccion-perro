@@ -19,10 +19,13 @@ Metodos:
 Ejemplo de uso:
 - Ingresar los datos del perro desde consola, ademas los imprime usando el metodo __str__
 <img width="324" height="208" alt="image" src="https://github.com/user-attachments/assets/a9de148c-b6a7-40e1-afd5-1a9464fc641b" />
+
 - Metodo pasear ingresando la cantidad de tiempo desde consola
 <img width="310" height="283" alt="image" src="https://github.com/user-attachments/assets/071f611f-4773-404c-8178-9b069e4b06e5" />
+
 - Metodo dar comida ingresando la cantidad de comida desde consola
 <img width="450" height="46" alt="image" src="https://github.com/user-attachments/assets/4dd0e959-c3ef-4c6c-85fb-f839f35ab63f" />
+
 - Metodo ladrar
 <img width="282" height="33" alt="image" src="https://github.com/user-attachments/assets/b60af5cd-d7e6-4527-a532-69985d7a6dcf" />
 
